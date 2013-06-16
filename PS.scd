@@ -100,7 +100,7 @@
 
 ~groups = IdentityDictionary[];
 
-~run_this_fucker = {|array|
+~run = {|array|
 	fork{
 	array.do {|key|
 		var	score=CtkScore.new, bundle=~gestures[key], t_name, path, subname, last_group=nil;
