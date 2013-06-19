@@ -6,7 +6,7 @@ This is a little over half of the code used to realize a piece for Tuba and comp
 
 Not well organized, I'm afraid. There will be a major rewrite of the whole system for our next piece. PS is the heart of the whole thing, SM defines the functions for populating the CtkScore object, the TB files define time signature and tempo schemas for different sections of the piece.
 
-Everything else is prodivded for the curious: synthesis definitions and all of the functions for turning the scores into sound.
+Everything else is provided for the curious: synthesis definitions and all of the functions for turning the scores into sound.
 
 ------
 
