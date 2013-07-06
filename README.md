@@ -1,8 +1,8 @@
 # Bowron
 
-Sequencing, rendering, synthesis and processing algorithms for [Bowron](https://soundcloud.com/credit/bowron).
+Sequencing, rendering, synthesis and processing algorithms for [Bowron](https://soundcloud.com/credit/bowron), a piece for tuba and computer that was produced in collaboration with tubaist [Jon Hansen](http://www.jonhansenmusic.com/).
 
-This is a little over half of the code used to realize a piece for Tuba and computer that was produced in collaboration with tubaist [Jon Hansen](http://www.jonhansenmusic.com/). It is provided as-is, with few comments and without the score files needed for actually reproducing the piece itself. The 'Sample Score.scd' demonstrates how to consruct a score file and execute it to render sound. proto_gestures, proto_gv, and protos all contain some more non-trivial examples of populating a score file.
+This is a little over half of the code used to realize it. It is provided as-is, with few comments and without the score files needed for actually reproducing the piece itself. The 'Sample Score.scd' demonstrates how to consruct a score file and execute it to render sound. proto_gestures, proto_gv, and protos all contain some more non-trivial examples of populating a score file.
 
 There will be a major rewrite of the whole system for our next piece, that version will be updated here.
 
